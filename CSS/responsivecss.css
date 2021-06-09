@@ -1,0 +1,20 @@
+/*start with mobile ->tablet->laptop->big desktop*/
+
+
+body{
+    background-color: green;
+}
+
+/*
+mobile->0-767px
+tablet->768px
+laptop->1020px
+pc->1400px
+*/
+@media (min-width :768px){
+    body{
+        background-color: blue;
+        in
+
+    }
+}
